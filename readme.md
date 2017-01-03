@@ -534,7 +534,7 @@
 *Render React DOM into a new context (aka "Portal")*
 
  - [react-portal](https://github.com/tajo/react-portal) - React component for transportation of modals, lightboxes, loading bars... to document.body.
- - [react-layer-stack](https://github.com/fckt/react-layer-stack) - Simple yet complete and agnostic layering (aka portal) system for React. Useful for windowing/dnd/popover/modals/tooltip
+ - [react-layer-stack](https://github.com/fckt/react-layer-stack) - Simple yet complete and agnostic layering (aka portal) system for React. Useful for windowing/dnd/popover/modals/tooltip applications.
 
 
 ### Device Events
